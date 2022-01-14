@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/React-Porfolio/static/css/main.c07d4ebd.css",
+    "main.js": "/React-Porfolio/static/js/main.603d069e.js",
+    "static/media/screenshot.png": "/React-Porfolio/static/media/screenshot.ceb9bad13dffbe24d732.png",
+    "static/media/secc.JPG": "/React-Porfolio/static/media/secc.6897cb0c6b65c730503d.JPG",
+    "static/media/code-test.JPG": "/React-Porfolio/static/media/code-test.76baa5c90963ca7ea8fb.JPG",
+    "static/media/weather-dashboard.JPG": "/React-Porfolio/static/media/weather-dashboard.04363874fd617819c527.JPG",
+    "static/media/mongo.png": "/React-Porfolio/static/media/mongo.1dce5a947c9fc2d8570f.png",
+    "static/media/react.png": "/React-Porfolio/static/media/react.73ac128ace7cbddf3d39.png",
+    "static/media/express.png": "/React-Porfolio/static/media/express.375eee7619857b2ae37a.png",
+    "static/media/three.png": "/React-Porfolio/static/media/three.f1b62f2db044747adf2f.png",
+    "static/media/HTML.png": "/React-Porfolio/static/media/HTML.33745eadd572612bdf11.png",
+    "static/media/p5.png": "/React-Porfolio/static/media/p5.51669fe459e2ed2bfd9e.png",
+    "index.html": "/React-Porfolio/index.html",
+    "main.c07d4ebd.css.map": "/React-Porfolio/static/css/main.c07d4ebd.css.map",
+    "main.603d069e.js.map": "/React-Porfolio/static/js/main.603d069e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c07d4ebd.css",
+    "static/js/main.603d069e.js"
+  ]
+}
